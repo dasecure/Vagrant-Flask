@@ -14,3 +14,6 @@ installed with:
 2. cd to working directory
 3. run vagrant up
 4. go to host browser with http://localhost:5000
+
+## How to start a simple HTTP server from command line
+> sudo python -m SimpleHttpServer 5000
